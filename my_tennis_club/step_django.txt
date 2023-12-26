@@ -1,0 +1,6 @@
+py -m pip install Django #install django
+django-admin --version
+django-admin startproject my_tennis_club # create project
+
+navigate to the project (ex:PS E:\python\my_tennis_club> )
+py manage.py runserver
